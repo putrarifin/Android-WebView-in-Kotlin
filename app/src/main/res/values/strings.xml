@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebLinkAja</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="rationale">dibutuhkan akses foto untuk mengambil gambar.</string>
+    <string name="returned_from_app_settings_to_activity"><![CDATA[<string name=\"returned_from_app_settings_to_activity\">         Returned from app settings with the following permissions:         \n\nCall: %s     </string>]]></string>
+    <string name="url">URL</string>
+    <string name="next">LOAD</string>
+    <string name="hello_first_fragment">WEBLINKAJA</string>
+
+</resources>
